@@ -38,7 +38,7 @@ A Reddit user, u/garoto_aleatorio14, speculated that the artist behind *H-Bomb* 
 
 ### Lyrics
 
-```
+
 Now here's a little story that I would like to tell
 It's 'bout this big old world and how it's gonna swell
 There's been many times that it tried to explode
@@ -50,7 +50,7 @@ Will start with one big bomb from over the sea
 So please take heed to what I have to say
 Keep this thing from happening in that awful way
 It's called H-bomb!
-```
+
 
 ---
 
