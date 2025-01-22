@@ -49,7 +49,7 @@ export function SongMetadata({ metadata }: { metadata: SongMetadata }) {
         )}
         {metadata.discoveryDate && (
           <div>
-            <dt className="text-gray-400">Discovery Date</dt>
+            <dt className="text-gray-400">Searched Since</dt>
             <dd className="text-gray-100">{metadata.discoveryDate}</dd>
           </div>
         )}
