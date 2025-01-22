@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 251 247 255;
+    --foreground: 224 224 224;
+
+    --card: 37 29 58;
+    --card-foreground: 224 224 224;
+
+    --popover: 37 29 58;
+    --popover-foreground: 224 224 224;
+
+    --primary: 199 169 255;
+    --primary-foreground: 37 29 58;
+
+    --secondary: 45 35 71;
+    --secondary-foreground: 224 224 224;
+
+    --muted: 45 35 71;
+    --muted-foreground: 161 161 170;
+
+    --accent: 45 35 71;
+    --accent-foreground: 224 224 224;
+
+    --destructive: 255 69 58;
+    --destructive-foreground: 250 250 250;
+
+    --border: 91 71 142;
+    --input: 91 71 142;
+    --ring: 199 169 255;
+  }
+}
+
+@layer base {
+  /* Global Styles */
+  body {
+    @apply bg-background text-foreground; /* Set the default background and foreground */
+  }
+
+  /* Force white text across all elements */
+  .prose {
+    color: white !important; /* Ensuring the text in markdown elements is white */
+  }
+
+  /* Override heading styles in the prose class */
+  .prose h1,
+  .prose h2,
+  .prose h3,
+  .prose h4,
+  .prose h5,
+  .prose h6 {
+    color: white !important; /* Ensure all headings are white */
+  }
+
+  /* Override the paragraph and list styles */
+  .prose p,
+  .prose li {
+    color: white !important; /* Ensure paragraphs and list items are white */
+  }
+
+}
