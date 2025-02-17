@@ -52,14 +52,3 @@ Keep this thing from happening in that awful way
 It's called H-bomb!
 
 
----
-
-### References
-
-1. Rockin’ Acetates Compilation (1998)  
-2. *Atomic Platters: Cold War Music From The Golden Age Of Homeland Security* (2005)  
-3. Reddit post by u/garoto_aleatorio14 (September 15, 2024)  
-
---- 
-
-Let me know if you want to adjust any of the content!
