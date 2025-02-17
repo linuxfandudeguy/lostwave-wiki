@@ -30,14 +30,7 @@ export default function RootLayout({
         {/* Footer */}
         <footer className="bg-[#0F0A1F] text-center text-gray-400 py-6 mt-10">
           <div className="flex justify-center space-x-4">
-            <a 
-              href="https://lostwave-wiki-form.netlify.app/" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="hover:text-gray-200">
-              Admin Form
-            </a>
-            <span>|</span>
+  
             <a 
               href="https://github.com/linuxfandudeguy/lostwave-wiki/" 
               target="_blank" 
