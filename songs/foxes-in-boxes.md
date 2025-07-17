@@ -16,7 +16,7 @@ knownCreator: "Lamya"
 
 # Foxes In Boxes
 
-"Foxes In Boxes" is an unidentified R&B song that was originally featured on a GapBody CD from March 2004. It was the only song on the album not credited to any artist. The song is believed to have been created by Lamya, though she passed away in 2009. The search for the song's identity was largely driven by its appearance in a GapBody CD listing from 2004 and had been an ongoing investigation since.
+"Foxes In Boxes" is an  R&B song that was originally featured on a GapBody CD from March 2004. It was the only song on the album not credited to any artist. The song is created by Lamya. The search for the song's identity was largely driven by its appearance in a GapBody CD listing from 2004 and had been an ongoing investigation since.
 
 ## Search History
 
