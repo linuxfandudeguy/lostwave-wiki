@@ -1,7 +1,7 @@
 ---
 title: "Foxes In Boxes"
 description: "A solved R&B song, originally featured on a GapBody CD from March 2004."
-status: "partially found"
+status: "found"
 discoveryDate: "2023-05-27"
 originalPlatform: "GapBody CD (March 2004)"
 genre: 
@@ -9,7 +9,7 @@ genre:
 language: "English"
 country: "United States of America"
 op: "Michael Bise"
-lastUpdated: "2025-01-22"
+lastUpdated: "2025-07-25"
 knownCreator: "Lamya"
 ---
 
