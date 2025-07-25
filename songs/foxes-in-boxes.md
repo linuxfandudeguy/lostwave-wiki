@@ -2,7 +2,7 @@
 title: "Foxes In Boxes"
 description: "A solved R&B song, originally featured on a GapBody CD from March 2004."
 status: "found"
-discoveryDate: "2023-05-27"
+discoveryDate: "April 7th, 2021"
 originalPlatform: "GapBody CD (March 2004)"
 genre: 
   - "R&B"
